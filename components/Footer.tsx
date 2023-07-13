@@ -19,6 +19,7 @@ const FooterColumn = ({ title, links }: ColumnProps) => (
 )
 
 const Footer = () => {
+  
   return (
     <footer className='flexStart footer pb-0'>
       <div className='flex flex-col gap-12 w-full'>
